@@ -2,7 +2,7 @@
 https://javascript3d.netlify.app/
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="demo1" title="#demo1" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print1.png" width="600px"> <br>
+  <img alt="3d" title="#3d" src="https://github.com/mateusloubach/javascript3d/blob/main/js3d.png" width="600px"> <br>
 </p>
 
 Site funciona perfeitamente no navegador Chrome.
