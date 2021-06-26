@@ -8,7 +8,7 @@ This Project was created for the sole purpose of LEARNING.
 This project is NOT a Repo showcase for companies, and should NOT be taken under consideration for job applications.
 ```
 
-<img align='right' width=320 src="">
+<img align='center' width=320 src="https://github.com/mateusloubach/javascript3d/blob/main/second.gif">
 
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mateusloubach/javascript3d">
